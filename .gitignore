@@ -1,0 +1,15 @@
+# Ignorer les fichiers système et temporaires
+AppData/
+NTUSER.DAT
+OneDrive/
+Desktop.ini
+Thumbs.db
+*.log
+*.tmp
+*.blf
+*.TMContainer*
+
+# Ignorer les fichiers de configuration spécifiques
+.DS_Store
+node_modules/
+dist/
